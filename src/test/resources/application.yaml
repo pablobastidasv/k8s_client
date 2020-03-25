@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: k8s_client
+
+k8s:
+  client: local
+
+logging:
+  level:
+    co.pablobastidasv.k8sclient: DEBUG

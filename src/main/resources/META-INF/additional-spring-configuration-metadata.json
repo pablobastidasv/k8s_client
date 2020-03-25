@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "k8s.client",
+      "type": "java.lang.String",
+      "description": "What kind of client will be used to instantiate the k8s client, local or cluster.",
+      "defaultValue": "cluster"
+  }
+] }

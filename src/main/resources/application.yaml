@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: k8s_client
+
+k8s:
+  client: cluster
