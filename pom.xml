@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>13</java.version>
 
-		<k8s_client.version>8.0.0</k8s_client.version>
+		<k8s_client.version>9.0.2</k8s_client.version>
 	</properties>
 
 	<dependencies>
